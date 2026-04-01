@@ -1,4 +1,4 @@
-# 🏏 IPL Cricket Analytics Dashboard (Power BI)
+# 🏏 IPL Cricket Analytics Dashboard
 
 ## 📊 Overview
 
