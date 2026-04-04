@@ -24,6 +24,9 @@ It provides insights into team performance, scoring patterns, and match dynamics
   * Total Runs Scored
   * Total Wickets Taken
   * Average Run Rate
+  * Highest Scoring Phase
+  * Most Risky Phase
+  * Best Efficiency Phase 
 
 * 📊 **Visual Insights**
 
@@ -44,12 +47,16 @@ It provides insights into team performance, scoring patterns, and match dynamics
 * **Power BI**
 * **DAX (Data Analysis Expressions)**
 * **Data Cleaning & Transformation**
+* **Numpy**
+* **Pandas**
+* **ChatGpt**
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 PowerBI Dashboards Preview
 
-![Dashboard Overview](`IPL(2008-25)_Matches_ Overview.png`)
+![Dashboard Overview](`IPL(2008-25)_Matches_ Overview.png`),
+![Phase wise Analysis](`IPL_Phase_Analysis Dashboard_ss.png`)
 
 ---
 
@@ -57,7 +64,8 @@ It provides insights into team performance, scoring patterns, and match dynamics
 
 * `IPL 2008-25.ipynb` → Dataset used for analysis
 * `IPL 2008-25.pbix` → Power BI file
-* `IPL(2008-25)_Matches_ Overview.png` → Dashboard screenshots
+* `IPL(2008-25)_Matches_ Overview.png` → Overview Dashboard screenshot
+* `IPL_Phase_Analysis Dashboard_ss.png` → Pase Analysis Dashboard screanshot
 
 ---
 
@@ -76,6 +84,10 @@ Work in progress — future updates will include:
 * Death overs contribute the highest scoring rate
 * Middle overs show stable scoring patterns
 * Wicket frequency increases in later overs
+* Death overs have the highest scoring rate,
+* while Middle overs contribute the highest number of wickets due to longer duration
+* Middle overs are stable with moderate scoring but highest wickets taken due to most number of overs
+* Powerplay has lower risk but controlled scoring
 
 ---
 
